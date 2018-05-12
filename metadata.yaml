@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25430'
     url: http://www.gutenberg.org/2009/agents/25430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22591#A-Political-History-of-the-State-of-New-York-Volumes-1-3
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-09-12'
 gutenberg_type: Text
